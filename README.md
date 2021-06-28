@@ -1,5 +1,6 @@
 # Image_Identifier_Web_Application
-# ![Image_upload](/Image_Identifier.png "Description goes here")
+# ![Image_upload](/Image_identifier.png)
+# ![Result](/result.png)
 # 1. Project Requirements or Dependencies
     * Anaconda Python (to get ML Libraries)
     * Keras (for Deep Learning)
